@@ -1,2 +1,2 @@
 alert("HELLO WORLD")
-document.write("hola mundo :) "); 
+document.write("hola mundo :) ");
