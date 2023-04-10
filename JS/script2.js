@@ -1,0 +1,1 @@
+document.write("<br> Texto del script2.js<br>") 
